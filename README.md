@@ -1,7 +1,7 @@
 # macro-inflation-equity-timeseries
 # Macroeconomic Inflation Shocks & Equity Index Dynamics: Time-Series Forecasting
 
-> **MSc Finance — University of Bath**  
+> **MSc Finance with Risk Management — University of Bath**  
 > *Applied Econometrics & Time-Series Modeling*
 
 ## Project Overview
